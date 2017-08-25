@@ -8,3 +8,4 @@ one as the original specific class.
 
 If you want to have more information, with full explanation of this code, you can find it 
 [on my blog](http://dev.macero.es/2016/10/23/produce-and-consume-json-messages-with-spring-boot-amqp/).
+First Comment from Master Branch.
